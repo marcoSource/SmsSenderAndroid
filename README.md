@@ -4,7 +4,7 @@ Hello there!
 This application makes easy to send multiple messages to someone just to **troll** :)
 
 - PlayStore Link:
-  - Publishing....
+  - Trying to upload it, but play store is giving spam policy report
 
 ##Common in repo
 
